@@ -1,0 +1,281 @@
+.orange{
+
+  color: orange;
+}
+.weblogo{
+  width: 65px;
+  display: block;
+}
+
+.bg-dark {
+  background: #000000a1 !important;
+}
+
+.navbar-nav a {
+  text-transform: uppercase;
+  margin: 0 8px;
+  color: #fff;
+  font-weight: 100;
+}
+
+.navbar-nav a:hover {
+  background: orange;
+  transition: 1s all;
+}
+
+.franchise {
+  border: 1px solid orange;
+}
+.img2 {
+  width: 80%;
+}
+.para {
+  line-height: 35px;
+  font-size: 18px;
+}
+
+.btn-info {
+  background: orange !important;
+  color: white;
+  border: none;
+  font-size: 25px;
+}
+
+.c {
+  background: url(https://pn-paul.netlify.app/image/img%20background.jpg);
+  width: 100%;
+  height: 500px;
+}
+.text h3 {
+  font-size: 40px;
+}
+.text p {
+  font-size: 18px;
+  line-height: 40px;
+}
+.text button {
+  font-size: 24px;
+  color: black;
+}
+.text {
+  padding: 10% 0;
+}
+
+.d {
+  background: url(https://pn-paul.netlify.app/image/ffback2.png);
+  width: 100%;
+  height: 500px;
+}
+footer {
+  background: rgb(18, 21, 21);
+}
+footer img {
+  width: 80%;
+}
+footer .para {
+  font-size: 18px;
+  line-height: 28px;
+}
+i {
+  color: orange;
+  margin: 0 2px;
+}
+
+.copyright{
+
+    background-color: black;
+}
+
+/* about page styling */
+
+.about-bg-image{
+
+  background: url(https://pn-paul.netlify.app/image/ourimage.jpg);
+  width: 100%;
+  height: 680px;
+  background-size: cover;
+  background-position: center;
+}
+.about-bg-image h1{
+
+  padding-top: 300px;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+.about-game-changer-image{
+
+  background: url(https://pn-paul.netlify.app/image/gamebanner.jpg);
+  width: 100%;
+  height: 350px;
+}
+.para-light {
+
+  font-weight: 100;
+  line-height: 42px;
+
+}
+/* about page styling end */
+
+/* brand styling start  */
+.brand-bg-image{
+  background: url(https://pn-paul.netlify.app/image/brands.jpg);
+  width: 100%;
+  height: 680px;
+  background-size: cover;
+  background-position: center;
+}
+
+.brand-bg-image h1{
+
+  padding-top: 300px;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+
+/* brand styling end  */
+
+/* our team styling start  */
+
+.team-bg-image{
+
+  background: url(https://pn-paul.netlify.app/image/new-our-team.jpg);
+  width: 100%;
+  height: 680px;
+  background-size: cover;
+  background-position: center;
+}
+.team-bg-image h1{
+
+  padding-top: 300px;
+  font-size: 50px;
+  letter-spacing: 5px;
+}
+.photos{
+
+  border-radius: 10px;
+  width: 90%;
+
+}
+.photos-name{
+
+  position: relative;
+  bottom: 20%;
+  color: white;
+  background: #000000a1;
+}
+
+.photos-name p {
+
+  font-size: 14px;
+  color: orange;
+}
+/* our team styling end  */
+
+/* press relase styling start  */
+
+.press-bg-image{
+
+  background: url(https://pn-paul.netlify.app/image/press-new-1.jpg);
+  width: 100%;
+  height: 650px;
+  background-size: cover;
+  background-position: center;
+}
+
+.press-bg-image h1{
+
+  padding-top: 300px;
+  font-size: 50px;
+  letter-spacing: 5px;
+
+}
+.article-para{
+
+  color: gray;
+  font-weight: 100;
+}
+
+/* press relase styling end  */
+
+/* Contact styling start  */
+
+.contact-bg-image{
+
+  background: url(https://pn-paul.netlify.app/image/CONTACT-US.jpg);
+  width: 100%;
+  height: 650px;
+  background-size: cover;
+  background-position: center;
+}
+
+.contact-bg-image h1{
+
+  padding-top: 300px;
+  font-size: 50px;
+  letter-spacing: 5px;
+
+}
+
+/* Contact styling end */
+
+/* Career styling start  */
+
+.career-bg-image{
+
+  background: url(https://pn-paul.netlify.app/image/new-careers-1.jpg);
+  width: 100%;
+  height: 650px;
+  background-size: cover;
+  background-position: center;
+}
+
+.career-bg-image h1{
+
+  padding-top: 300px;
+  font-size: 50px;
+  letter-spacing: 5px;
+
+}
+.career-para{
+
+  font-size: 20px;
+  color: gray;
+  font-weight: 100;
+}
+
+/* Career styling end */
+
+
+
+
+    /* ------------media queries --------------- */
+@media screen and (max-width: 768px) {
+  .img2 {
+    width: 100%;
+  }
+  .text h3 {
+    font-size: 30px;
+  }
+  .brands img {
+    width: 100%;
+  }
+  .text {
+    padding: 10% 0;
+  }
+  .copyright span{
+
+    display: none;
+  }
+  .photos{
+
+    width: 100%;
+  } 
+  
+
+  
+ 
+
+}
+    /* ------------ media queries --------------- */
+
+
